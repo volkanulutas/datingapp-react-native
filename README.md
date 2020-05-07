@@ -1,4 +1,6 @@
 # datingapp-react-native
+# Ön Kurulumlar
+1.) React Native Kurulumu [Windows](https://medium.com/mol42/windows-%C3%BCzerinde-react-native-kurulumu-4de15e0e33b9) | [MacOS]https://medium.com/mol42/macos-%C3%BCzerinde-react-native-kurulumu-71d4f96c282e) | [Linux](https://medium.com/mol42/linux-%C3%BCzerinde-react-native-kurulumu-a61b54927941)
 
 # Kurulum
 

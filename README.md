@@ -59,7 +59,7 @@ pod install
 cd ..
 react-native link
 ```
-5.)
+4.
 react-native run-ios
 react-native run-android
 ```

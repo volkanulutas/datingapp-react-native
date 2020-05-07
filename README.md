@@ -59,7 +59,7 @@ pod install
 cd ..
 react-native link
 ```
-4.
+4. Kurulumu tamamladık, projeyi emulator veya telefonda çalıştıralım:
 react-native run-ios
 react-native run-android
 ```

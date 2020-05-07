@@ -53,6 +53,7 @@ npm install react-native-gesture-handler
 ```
 4.) 
 
+
 ```sh
 cd ios
 pod install
@@ -60,6 +61,8 @@ cd ..
 react-native link
 ```
 4. Kurulumu tamamladık, projeyi emulator veya telefonda çalıştıralım:
+
+```sh
 react-native run-ios
 react-native run-android
 ```

@@ -26,11 +26,15 @@ Ana dizine gelelim.
 
 ```sh
 yarn add @react-navigation/native
+yarn add @react-navigation/stack
+yarn add @react-navigation/bottom-tabs
 ```
 
 veya
 ```sh
 npm install @react-navigation/native
+npm install @react-navigation/stack
+npm install @react-navigation/bottom-tabs
 ```
 
 2.)

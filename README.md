@@ -2,6 +2,14 @@
 # Ön Kurulumlar
 1.) React Native Kurulumu [Windows](https://medium.com/mol42/windows-%C3%BCzerinde-react-native-kurulumu-4de15e0e33b9) | [MacOS](https://medium.com/mol42/macos-%C3%BCzerinde-react-native-kurulumu-71d4f96c282e) | [Linux](https://medium.com/mol42/linux-%C3%BCzerinde-react-native-kurulumu-a61b54927941)
 
+# React Native Getting Started (Örnek Çalışmalar)
+1. [DevNot-React Native Giriş Video Eğitim](https://youtu.be/nLzbzgWflxU)
+  1-a) [Blog olarak anlatımı](https://github.com/ozcanzaferayan/react-native-instagram-blog)
+2. [Haber Örnek Uygulaması](http://devnot.com/2019/react-native-ve-hooks-ile-haber-uygulamasi-yapimi-bolum-1/)
+3. [Cupertino tasarımı ile yapılan React Native IOS Whatsapp Uygulaması](https://github.com/ozcanzaferayan/react-native-whatsapp-ios)
+4. [Meterial UI tasarımı ile yapılan React Native Android Whatsapp Uygulaması](https://github.com/ozcanzaferayan/react-native-whatsapp-material)
+5. [Tüm Örnekler](https://github.com/ozcanzaferayan?tab=repositories)
+
 # Kurulum
 
 1. Repoyu bilgisayara alalım:

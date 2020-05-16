@@ -10,6 +10,13 @@
 4. [Meterial UI tasarımı ile yapılan React Native Android Whatsapp Uygulaması](https://github.com/ozcanzaferayan/react-native-whatsapp-material)
 5. [Tüm Örnekler](https://github.com/ozcanzaferayan?tab=repositories)
 
+# Notlar
+1. Aşağıdaki komut ile projeyi başlatmayı unutmayınız.
+
+```
+npx react-native init MyApp --template react-native-template-typescript 
+```
+
 # Kurulum
 
 1. Repoyu bilgisayara alalım:

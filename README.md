@@ -13,8 +13,8 @@
 # Notlar
 1. Aşağıdaki komut ile projeyi başlatmayı unutmayınız.
 
-```
-npx react-native init MyApp --template react-native-template-typescript 
+```sh
+react-native init MyAwesomeProject --template typescript 
 ```
 
 # Kurulum
